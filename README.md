@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ganesh Balaraju</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **UI Design, Cross Platform Mobile Development**
 
-- 📝 I regularly write articles on [medium](medium)
+- 📝 I have written articles on [medium](medium)
 
-- 💬 Ask me about **ios, swiftui,python**
+- 💬 Ask me about **ios, swift, python**
 
 - 📫 How to reach me **ganeshbalarajude@gmail.com**
 
-- ⚡ Fun fact **I think i am quite curious and open to learning**
+- ⚡ Fun fact **I think I am quite curious and open to learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
