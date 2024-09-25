@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ganesh Balaraju</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **UI Design, Cross Platform Mobile Development**
+- 🌱 I’m currently learning **UI/UX Design, Cross Platform Mobile Development, Software Development - Web/Mobile**
+- Interests - React, Swift, Flutter, Docker,Kubernates, Python Application Development
 
 - 📝 I have written articles on [medium](medium)
 
