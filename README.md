@@ -19,3 +19,5 @@
 <a href="https://medium.com/@ganeshbalaraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ganeshbalaraju" height="30" width="40" /></a>
 </p>
 
+![Ganesh Balaraju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaneshMandakapu&show_icons=true&theme=radical)
+
