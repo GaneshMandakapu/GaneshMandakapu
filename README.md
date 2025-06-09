@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **ios, swift, python**
 
-- 📫 How to reach me **ganeshbalarajude@gmail.com**
+- 📫 How to reach me **ganeshbalarajude@gmail.com**  **https://ganesh-balaraju.vercel.app/**
 
 - ⚡ Fun fact **I think I am quite curious and open to learning**
   
