@@ -1,36 +1,111 @@
 <h1 align="center">Hi 👋, I'm Ganesh Balaraju</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
 
-- 🌱 I’m currently learning **UI/UX Design, Cross Platform Mobile Development, Software Development - Web/Mobile**
-- Interests - React, Swift, Flutter, Docker,Kubernates, Python Application Development
+---
 
-- 📝 I have written articles on [medium](medium)
+### 🌱 Currently Exploring
+- UI/UX Design
+- Cross-Platform Mobile Development
+- Software Development - Web & Mobile
+- Cloud Computing & DevOps (Docker, Kubernetes)
 
-- 💬 Ask me about **ios, swift, python**
+---
 
-- 📫 How to reach me **ganeshbalarajude@gmail.com**  **https://ganesh-balaraju.vercel.app/**
+### ⚡ Interests
+- React | Swift | Flutter
+- Python Application Development
+- Machine Learning & AI
+- Backend APIs (Node.js, Express)
 
-- ⚡ Fun fact **I think I am quite curious and open to learning**
-  
-## Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+---
 
+### 📚 Articles & Blogs
+- 📝 [Read my articles on Medium](https://medium.com/@ganeshbalaraju)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 💬 Ask Me About
+- iOS Development | Swift
+- Full-Stack Web Development (MERN)
+- Python (Automation, Web, Data)
+
+---
+
+### 📫 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/ganeshbalaraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganeshbalaraju" height="30" width="40" /></a>
-<a href="https://instagram.com/chikkibhoii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chikkibhoii" height="30" width="40" /></a>
-<a href="https://medium.com/@ganeshbalaraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ganeshbalaraju" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ganeshbalaraju/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://instagram.com/chikkibhoii" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://medium.com/@ganeshbalaraju" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="mailto:ganeshbalarajude@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://ganesh-balaraju.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-![Ganesh Balaraju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaneshMandakapu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshMandakapu&layout=compact&theme=radical)
+---
 
+### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GaneshMandakapu&show_icons=true&theme=radical" alt="Ganesh's GitHub stats" />
+</p>
+
+---
+
+### 📌 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshMandakapu&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshMandakapu&theme=radical&hide_border=false" alt="Contribution Streak" />
+</p>
+
+---
+
+### ⚡ Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshMandakapu&theme=radical&hide_border=false" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GaneshMandakapu&theme=radical" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📈 Metrics
+<p align="center">
+  <img src="https://github.com/GaneshMandakapu/GaneshMandakapu/blob/main/github-metrics.svg" alt="Metrics" />
+</p>
+
+---
+
+### 👀 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GaneshMandakapu&color=blueviolet&style=flat-square" alt="Visitor Badge" />
+</p>
+
+---
+
+### 🎯 Fun Fact
+> ⚡ I’m endlessly curious and always excited to learn new things! Whether it’s a new tech stack or just random trivia—I’m in!
+
+---
