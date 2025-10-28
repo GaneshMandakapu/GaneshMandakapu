@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 ---
-## 📊 GitHub Stats (Compact View)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GaneshMandakapu&show_icons=true&theme=radical&hide_rank=true&hide=prs" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshMandakapu&layout=compact&theme=radical" height="150"/>
