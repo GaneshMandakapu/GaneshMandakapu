@@ -34,38 +34,12 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-
 ---
-
 ## 📊 GitHub Stats (Compact View)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GaneshMandakapu&show_icons=true&theme=radical&hide_rank=true&hide=prs" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshMandakapu&layout=compact&theme=radical" height="150"/>
 </p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GaneshMandakapu&theme=radical&margin-w=10&no-bg=true" />
-</p>
-
----
-
-## 🔥 Contribution Streak & Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshMandakapu&theme=radical&hide_border=true" height="140"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshMandakapu&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 📈 Metrics
-<p align="center">
-  <img src="https://github.com/GaneshMandakapu/GaneshMandakapu/blob/main/github-metrics.svg" />
-</p>
-
----
 
 ## 👀 Visitor Count
 <p align="center">
