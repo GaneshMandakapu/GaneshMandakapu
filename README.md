@@ -1,61 +1,38 @@
-<!-- ================= HERO ================= -->
-<h1 align="center">Hi 👋, I'm Ganesh Balaraju</h1>
-<h3 align="center">Full-Stack Developer | Automation Engineer | Problem Solver 🚀</h3>
+# Ganesh Balaraju
 
-<!-- Typing Animation (stable host) -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%92%BB;Automation+Engineer+%F0%9F%A4%96;Building+APIs+%26+Workflows+%E2%9A%99%EF%B8%8F;Deploying+Reliable+Systems+%F0%9F%9A%80;Always+Learning+%F0%9F%8C%B1" />
-  </a>
-</p>
+**Applied AI Engineer — Berlin, Germany.** I build LLM systems that survive contact with real users: typed outputs instead of parsed prose, retrieval that is measured instead of assumed, and a human in the loop wherever confidence is low.
 
-<!-- Social Links -->
-<p align="center">
-  <a href="https://ganesh-balaraju.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ganeshbalaraju/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ganeshbalarajude@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Right now I own a live HubSpot CRM and the automation around it at Steinbeis Next, and I am finishing an M.Sc. thesis measuring where LLM repair of agile user stories quietly breaks a backlog. Available from **1 October 2026**.
+
+[Portfolio](https://ganeshbalaraju.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ganeshbalaraju/) · ganeshbalarajude@gmail.com
 
 ---
 
-## ⚡ About Me
+## Work worth reading
 
-<table>
-  <tr>
-    <td>💻 <b>Primary Focus</b></td>
-    <td>Full-Stack Development & Automation</td>
-  </tr>
-  <tr>
-    <td>⚙️ <b>What I Love</b></td>
-    <td>Automating repetitive tasks, building clean APIs, scalable systems</td>
-  </tr>
-  <tr>
-    <td>🌱 <b>Currently Exploring</b></td>
-    <td>Advanced DevOps, System Design, UI/UX</td>
-  </tr>
-  <tr>
-    <td>💬 <b>Ask Me About</b></td>
-    <td>JavaScript, Python, Automation, Backend Architecture</td>
-  </tr>
-  <tr>
-    <td>🎯 <b>Mindset</b></td>
-    <td>Build → Automate → Optimize → Scale</td>
-  </tr>
-</table>
+**[llm-radar](https://github.com/GaneshMandakapu/llm-radar)** — `pip install llm-radar`
+Real-time observability for LLM applications. One line wraps a FastAPI app and every OpenAI, Anthropic, Gemini and Ollama call is captured with token counts, cost and latency. Ships a dashboard, a CLI A/B harness and a Chrome extension.
+`Python` `FastAPI` `provider SDK interception` `PyPI` `GitHub Actions`
+
+**[b2b-ai-assistant](https://github.com/GaneshMandakapu/b2b-ai-assistant)**
+Customer-service triage service. A webhook takes a raw customer email, the model extracts intent and order ID through strictly typed tool calling, the service looks the order up in the CRM, and low confidence or an upset customer routes the ticket to a human instead of guessing.
+`FastAPI` `Pydantic structured outputs` `tool calling` `HubSpot` `Docker`
+
+**M.Sc. thesis — reliability of LLM repair** *(in progress, OVGU Magdeburg)*
+Empirical study of whether LLM-repaired user stories stay coherent: atomic quality, set-level drift and verified acceptance, scored against the AQUSA quality framework rather than eyeballed.
+`evaluation design` `LLM-as-judge` `NLP` `reproducible experiments`
 
 ---
 
-## 🧩 Tech Stack
+## What I actually do
 
-### 💻 Full-Stack
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/
+**Software engineering** — Python, FastAPI, REST API design, PostgreSQL and SQL, pytest, Docker, GitHub Actions. Systems small enough to reason about and instrumented enough to debug at 3am.
+
+**Applied AI** — LLM APIs (OpenAI, Anthropic), prompt design, structured outputs and tool calling, RAG, vector search, agent orchestration, and evaluation harnesses that turn "it feels better" into a number.
+
+**Working with people** — Four years of taking an ambiguous business problem from a non-technical stakeholder, cutting it into something shippable, explaining the tradeoff in their language rather than mine, and saying plainly when something I built is the reason a number moved the wrong way.
+
+---
+
+Previously: Programmer Analyst at Cognizant (Bangalore) · Delivered an on-site enablement programme at Home Credit Bank (Almaty) · M.Sc. Digital Engineering, Otto von Guericke University
+Telugu (native) · English (C1–C2) · German (B1, improving)
